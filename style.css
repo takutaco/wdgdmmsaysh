@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    position: relative;
+}
+.floating-link {
+    position: absolute;
+    cursor: pointer; /* Add cursor style for clickable links */
+}
